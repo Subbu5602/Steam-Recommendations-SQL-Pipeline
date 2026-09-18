@@ -1,0 +1,5 @@
+steam.db
+data/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
